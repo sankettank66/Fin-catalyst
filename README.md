@@ -13,7 +13,6 @@ Welcome to FinCatalyst! This project utilizes the CoinCap API to display cryptoc
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -68,9 +67,3 @@ npm run dev
 
 Contributions are welcome! If you find any bugs or want to enhance the features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Remember to replace placeholders like `[Project Name]`, `[Add more features here]`, `[your-username]`, etc., with actual information related to your project. Also, make sure you have a `LICENSE` file and any relevant screenshots in a `screenshots` directory within your project repository. Additionally, if you have specific instructions for using RoughNotion or any other unique aspects of your project, you can include those in the README as well.
