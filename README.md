@@ -14,7 +14,7 @@ Welcome to FinCatalyst! This project utilizes the CoinCap API to display cryptoc
 
 ## Project Overview
 
-[Project Name] is a web application that fetches cryptocurrency data using the CoinCap API and displays it in an interactive and visually appealing way. It is built using React for the front end, Vite as the build tool, Tailwind CSS for styling, and RoughNotion for sketching and prototyping.
+Fincatalyst is a web application that fetches cryptocurrency data using the CoinCap API and displays it in an interactive and visually appealing way. It is built using React for the front end, Vite as the build tool, Tailwind CSS for styling, and RoughNotion for sketching and prototyping.
 
 ## Features
 
