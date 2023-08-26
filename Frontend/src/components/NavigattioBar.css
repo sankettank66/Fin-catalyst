@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Glass+Antiqua&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Archivo&display=swap");
+
+.navs{
+    font-family: 'Archivo', sans-serif;
+    font-weight: 100;
+}
+#FC{
+    
+    font-family: 'Glass Antiqua', cursive;
+    font-size: xxx-large;
+}
