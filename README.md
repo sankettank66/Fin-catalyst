@@ -1,5 +1,4 @@
-```markdown
-# Project Name
+# FinCatalyst
 
 Welcome to FinCatalyst! This project utilizes the CoinCap API to display cryptocurrency data using React, Vite, Tailwind CSS, and RoughNotion for sketching.
 
@@ -10,7 +9,6 @@ Welcome to FinCatalyst! This project utilizes the CoinCap API to display cryptoc
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
