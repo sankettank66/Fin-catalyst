@@ -1,3 +1,6 @@
+# Visit this link for a better view of this project
+- [Click Here](https://devfolio.co/projects/fincatalyst-e986)
+
 # FinCatalyst
 
 Welcome to FinCatalyst! This project utilizes the CoinCap API to display cryptocurrency data using React, Vite, Tailwind CSS, and RoughNotion for sketching.
